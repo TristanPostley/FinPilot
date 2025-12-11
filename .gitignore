@@ -1,0 +1,35 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+*.pyc
+__pycache__/
+
+# GUI build artifacts (keep spec files, ignore auto-generated)
+sec_financials_tool.spec
+SEC Financials Tool.spec
+
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.xlsx
+!example_*.xlsx
+
