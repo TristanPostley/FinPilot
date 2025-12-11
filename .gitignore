@@ -30,6 +30,6 @@ ENV/
 Thumbs.db
 
 # Project specific
-*.xlsx
-!example_*.xlsx
+# *.xlsx
+# !example_*.xlsx
 
