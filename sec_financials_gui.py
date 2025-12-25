@@ -73,7 +73,7 @@ class SECFinancialsGUI:
         output_frame = ttk.Frame(main_frame)
         output_frame.grid(row=8, column=1, sticky=(tk.W, tk.E), padx=(10, 0))
         
-        self.output_var = tk.StringVar(value="(Auto-generated in current folder)")
+        self.output_var = tk.StringVar(value="(Auto-generated in Tool_Output folder)")
         output_label = ttk.Label(output_frame, textvariable=self.output_var, 
                                 foreground="gray", font=("Arial", 9), width=30)
         output_label.pack(side=tk.LEFT)
@@ -199,4 +199,9 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+
+
 

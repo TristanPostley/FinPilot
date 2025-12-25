@@ -1,0 +1,34 @@
+{
+  "valuation_parameters": {
+    "wacc": 0.10,
+    "terminal_growth_rate": 0.03,
+    "risk_free_rate": 0.025
+  },
+  "forecasting_assumptions": {
+    "revenue_growth_rate": 0.15,
+    "operating_margin": 0.20
+  },
+  "cell_mappings": {
+    "Valuation Parameters": {
+      "B2": "wacc",
+      "B3": "terminal_growth_rate",
+      "B4": "risk_free_rate"
+    },
+    "Forecasting Assumptions": {
+      "C3": "revenue_growth_rate",
+      "C4": "operating_margin"
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -148,3 +148,19 @@ If you encounter issues not covered here:
 - No data is stored or transmitted except to the SEC EDGAR database
 - All processing happens on your computer
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
